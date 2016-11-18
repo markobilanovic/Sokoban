@@ -1,0 +1,30 @@
+D:\temp\Lavirint\Lavirint\bin\Debug\Lavirint.exe
+D:\temp\Lavirint\Lavirint\bin\Debug\Lavirint.pdb
+D:\temp\Lavirint\Lavirint\obj\Debug\ResolveAssemblyReference.cache
+D:\temp\Lavirint\Lavirint\obj\Debug\Lavirint.DisplayPanel.resources
+D:\temp\Lavirint\Lavirint\obj\Debug\Lavirint.Main.resources
+D:\temp\Lavirint\Lavirint\obj\Debug\Lavirint.Properties.Resources.resources
+D:\temp\Lavirint\Lavirint\obj\Debug\Lavirint.csproj.GenerateResource.Cache
+D:\temp\Lavirint\Lavirint\obj\Debug\Lavirint.exe
+D:\temp\Lavirint\Lavirint\obj\Debug\Lavirint.pdb
+D:\temp\grupa 2\Lavirint\Lavirint\obj\Debug\Lavirint.exe
+D:\temp\grupa 2\Lavirint\Lavirint\obj\Debug\Lavirint.pdb
+D:\temp\grupa 2\Lavirint\Lavirint\bin\Debug\Lavirint.exe
+D:\temp\grupa 2\Lavirint\Lavirint\bin\Debug\Lavirint.pdb
+D:\temp\grupa 2\Lavirint\Lavirint\obj\Debug\ResolveAssemblyReference.cache
+D:\temp\grupa 2\Lavirint\Lavirint\obj\Debug\Lavirint.DisplayPanel.resources
+D:\temp\grupa 2\Lavirint\Lavirint\obj\Debug\Lavirint.Main.resources
+D:\temp\grupa 2\Lavirint\Lavirint\obj\Debug\Lavirint.Properties.Resources.resources
+D:\temp\grupa 2\Lavirint\Lavirint\obj\Debug\Lavirint.csproj.GenerateResource.Cache
+C:\Users\Marko\Desktop\ORI projekat\Lavirint\Lavirint\obj\Debug\Lavirint.exe
+C:\Users\Marko\Desktop\ORI projekat\Lavirint\Lavirint\obj\Debug\Lavirint.pdb
+C:\Users\Marko\Desktop\ORI projekat\Lavirint\Lavirint\bin\Debug\Lavirint.exe
+C:\Users\Marko\Desktop\ORI projekat\Lavirint\Lavirint\bin\Debug\Lavirint.pdb
+C:\Users\Marko\Desktop\ORI projekat\Lavirint\Lavirint\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Marko\Desktop\ORI projekat\Lavirint\Lavirint\obj\Debug\Lavirint.DisplayPanel.resources
+C:\Users\Marko\Desktop\ORI projekat\Lavirint\Lavirint\obj\Debug\Lavirint.Main.resources
+C:\Users\Marko\Desktop\ORI projekat\Lavirint\Lavirint\obj\Debug\Lavirint.Properties.Resources.resources
+C:\Users\Marko\Desktop\ORI projekat\Lavirint\Lavirint\obj\Debug\ResGen.read.1.tlog
+C:\Users\Marko\Desktop\ORI projekat\Lavirint\Lavirint\obj\Debug\ResGen.write.1.tlog
+C:\Users\Marko\Desktop\ORI projekat\sokoban\Lavirint\obj\Debug\Lavirint.exe
+C:\Users\Marko\Desktop\ORI projekat\sokoban\Lavirint\obj\Debug\Lavirint.pdb
